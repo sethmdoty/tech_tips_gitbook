@@ -6,7 +6,7 @@
 
 * [Links](ansible/external_links.md)
 * [Generate Rundeck Inventory](ansible/generate-rundeck-inventory.md)
-* [Init-Ansible-Galaxy](ansible/init-ansible-galaxy.md)
+* [Init from Ansible Galaxy](ansible/init-ansible-galaxy.md)
 * [Inventories](ansible/inventories.md)
 * [ansible-without-inventory](ansible/ansible-without-inventory.md)
 * [password\_user](ansible/password_user.md)
