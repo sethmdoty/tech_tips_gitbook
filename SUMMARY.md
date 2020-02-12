@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Tech Tips](README.md)
-* [ansible](ansible/README.md)
+* [Ansible](ansible/README.md)
   * [Links](Ansible/External_Links.md)
   * [Generate Rundeck Inventory](Ansible/Generate%20Rundeck%20Inventory.md)
   * [Init-Ansible-Galaxy](Ansible/Init-Ansible-Galaxy.md)
