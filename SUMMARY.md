@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Tech Tips](README.md)
+* [Home](README.md)
 
 ## Ansible
 
