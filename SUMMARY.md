@@ -25,3 +25,7 @@
 
 * [Links](kubernetes/links.md)
 
+## OSX
+
+* [Delete Local backups](osx/delete-local-backups.md)
+
