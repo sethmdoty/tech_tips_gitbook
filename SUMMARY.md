@@ -25,6 +25,10 @@
 
 * [Links](kubernetes/links.md)
 
+## OpenBSD
+
+* [Links](openbsd/links.md)
+
 ## OSX
 
 * [Delete Local backups](osx/delete-local-backups.md)
