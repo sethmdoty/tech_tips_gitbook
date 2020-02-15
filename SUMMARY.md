@@ -25,6 +25,25 @@
 
 * [Links](kubernetes/links.md)
 
+## Linux
+
+* [Atomic Host Introduction](linux/atomic-host-introduction.md)
+* [Awk one-liners](linux/awk-one-liners.md)
+* [Automate Sysadmin Tasks with Python’s os.walk Function](linux/automate-sysadmin-tasks-with-pythons-os.walk-function.md)
+* [Asus Speaker Fix](linux/asus-speaker-fix.md)
+* [Centrify AD join Issues](linux/centrify-ad-join-issues.md)
+* [FreeIPA](linux/freeipa/README.md)
+  * [Automating Kerberos Authentication](linux/freeipa/automating-kerberos-authentication.md)
+* [KVM](linux/kvm/README.md)
+  * [Automated DNS resolution for KVM/libvirt guests with a local domain](linux/kvm/automated-dns-resolution-for-kvm-libvirt-guests-with-a-local-domain.md)
+* [Storage](linux/storage/README.md)
+  * [/dev/sda1 is apparently in use by the system ; will not make a filesystem here!](linux/storage/dev-sda1-is-apparently-in-use-by-the-system-will-not-make-a-filesystem-here.md)
+
+## Networking
+
+* [Junos flow trace without commit](networking/junos-flow-trace-without-commit.md)
+* [Junos Stream Logging](networking/junos-stream-logging.md)
+
 ## OpenBSD
 
 * [Links](openbsd/links.md)
