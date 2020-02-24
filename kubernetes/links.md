@@ -32,6 +32,18 @@
 
 {% embed url="https://agrimprasad.com/post/supercharge-kubernetes-setup/" %}
 
+### Kubernetes Benchmarks
+
+{% embed url="https://github.com/aquasecurity/kube-bench" %}
+
+### On Premise Kubernetes
+
+{% embed url="https://sysadvent.blogspot.com/2017/12/day-24-on-premise-kubernetes-with.html" %}
+
+### Childrens Guide to Kubernetes
+
+{% embed url="https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/" %}
+
 
 
 

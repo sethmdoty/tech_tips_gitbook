@@ -21,9 +21,17 @@
 
 * [Links](development/links.md)
 
+## Docker
+
+* [Links](docker/links.md)
+* [Deploy Simple Registry Server](docker/deploy-simple-registry-server.md)
+* [Docker and Consul](docker/docker-and-consul.md)
+* [Dockerize a Live System](docker/dockerize-a-live-system.md)
+
 ## Kubernetes
 
 * [Links](kubernetes/links.md)
+* [Rolling Update Example](kubernetes/rolling-update-example.md)
 
 ## Linux
 
