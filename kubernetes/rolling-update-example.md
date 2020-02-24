@@ -16,7 +16,7 @@ After pulling the image from the Docker Hub to your worker nodes \(which may tak
 
 If you go back to the demo website you should eventually see four boxes, one for each pod. Step Four: Update the docker image We will now update the docker image to serve a different image by doing a rolling update to a new Docker image. 
 
-$ kubectl rolling-update update-demo-nautilus --update-period=10s -f docs/user-guide/update-demo/kitten-rc.yaml 
+`$ kubectl rolling-update update-demo-nautilus --update-period=10s -f docs/user-guide/update-demo/kitten-rc.yaml` 
 
 The rolling-update command in kubectl will do 2 things: 
 
@@ -28,7 +28,7 @@ This will kill the current pods one at a time, spinning up new ones to replace t
 
 Step Five: Bring down the pods
 
- $ kubectl delete rc update-demo-kitten 
+ `$ kubectl delete rc update-demo-kitten` 
 
 This first stops the replication controller by turning the target number of replicas to 0 and then deletes the controller. Step Six: Cleanup To turn down a Kubernetes cluster: $ ./cluster/kube-down.sh Kill the proxy running in the background: After you are done running this demo make sure to kill it:
 
@@ -36,7 +36,7 @@ This first stops the replication controller by turning the target number of repl
 
 Updating the Docker images If you want to build your own docker images, you can set $DOCKER\_HUB\_USER to your Docker user id and run the included shell script. It can take a few minutes to download/upload stuff. 
 
-$ export DOCKER\_HUB\_USER=my-docker-id $ ./docs/user-guide/update-demo/build-images.sh 
+`$ export DOCKER_HUB_USER=my-docker-id $ ./docs/user-guide/update-demo/build-images.sh` 
 
 To use your custom docker image in the above examples, you will need to change the image name in docs/user-guide/update-demo/nautilus-rc.yaml and docs/user-guide/update-demo/kitten-rc.yaml.
 
