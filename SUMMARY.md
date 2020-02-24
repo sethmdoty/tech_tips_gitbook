@@ -13,6 +13,10 @@
 * [setup-ansible-for-windows](ansible/setup-ansible-for-windows.md)
 * [Zero Downtime Upgrades with Openshift Ansible](ansible/upgrade-openshift.md)
 
+## AWS
+
+* [Links](aws/links.md)
+
 ## Databases
 
 * [MsSQL Kill User Session](databases/untitled.md)
@@ -21,12 +25,25 @@
 
 * [Links](development/links.md)
 
+## Devops
+
+* [Links](devops/links.md)
+
 ## Docker
 
+* [Building Fedora Rawhide images with Imagefactory](docker/building-fedora-rawhide-images-with-imagefactory.md)
 * [Links](docker/links.md)
 * [Deploy Simple Registry Server](docker/deploy-simple-registry-server.md)
 * [Docker and Consul](docker/docker-and-consul.md)
 * [Dockerize a Live System](docker/dockerize-a-live-system.md)
+
+## GCP
+
+* [Links](gcp/links.md)
+
+## Gitlab
+
+* [Links](gitlab/links.md)
 
 ## Kubernetes
 
@@ -35,6 +52,7 @@
 
 ## Linux
 
+* [Links](linux/links.md)
 * [Atomic Host Introduction](linux/atomic-host-introduction.md)
 * [Awk one-liners](linux/awk-one-liners.md)
 * [Automate Sysadmin Tasks with Python’s os.walk Function](linux/automate-sysadmin-tasks-with-pythons-os.walk-function.md)
