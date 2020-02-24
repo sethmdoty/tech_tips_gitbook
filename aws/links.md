@@ -10,6 +10,8 @@
 
 {% embed url="https://zoph.me/posts/2019-12-16-aws-security-toolbox/" %}
 
+{% embed url="https://aws.amazon.com/compliance/hipaa-eligible-services-reference/" %}
+
 
 
 ### Cognito
@@ -34,11 +36,59 @@
 
 {% embed url="https://serverlesscode.com/post/python-3-on-serverless-framework/" %}
 
+{% embed url="https://vgaltes.com/post/deploy-serverless-app/" %}
+
+{% embed url="https://jeremievallee.com/2017/03/26/aws-lambda-terraform.html" %}
+
 
 
 ### Sign-On
 
 {% embed url="https://github.com/dtjohnson/aws-azure-login" %}
+
+{% embed url="https://journeyofthegeek.com/2017/12/03/integrating-azure-ad-and-aws-part-1/" %}
+
+
+
+### ECR
+
+{% embed url="https://github.com/awslabs/amazon-ecr-credential-helper" %}
+
+### Lambda
+
+{% embed url="https://github.com/lambci/git-lambda-layer/" %}
+
+{% embed url="http://zonov.me/howto-create-an-aws-lambda-function-using-terraform/" %}
+
+{% embed url="https://aws.amazon.com/blogs/compute/new-deployment-options-for-aws-lambda/" %}
+
+{% embed url="https://smartshifttech.com/s3-data-copy-lambda-function/" %}
+
+{% embed url="https://medium.com/@jbirdvegas/using-terraform-to-create-lambda-deploy-package-902518c8f77" %}
+
+
+
+
+
+### DynamoDB
+
+{% embed url="https://www.alexdebrie.com/posts/dynamodb-migrate-global-table/" %}
+
+### Sandbox
+
+{% embed url="https://github.com/rebuy-de/aws-nuke" %}
+
+### Minimal AWS cli docker
+
+{% embed url="https://github.com/robpco/docker-awscli" %}
+
+### S3
+
+{% embed url="https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-set-bucket-policy-for-multiple-accounts.html" %}
+
+### Athena
+
+{% embed url="https://sysadmins.co.za/using-the-aws-cli-tools-to-interact-with-amazons-athena-service/" %}
 
 
 

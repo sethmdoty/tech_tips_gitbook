@@ -16,6 +16,12 @@
 ## AWS
 
 * [Links](aws/links.md)
+* [Remove KMS Grant Script](aws/remove-kms-grant-script.md)
+* [AWS Cli](aws/aws-cli.md)
+
+## Chaos Engineering
+
+* [Links](chaos-engineering/links.md)
 
 ## Databases
 
@@ -28,6 +34,8 @@
 ## Devops
 
 * [Links](devops/links.md)
+* [DevOps for Horses: Moving an Enterprise Application to the Cloud](devops/devops-for-horses-moving-an-enterprise-application-to-the-cloud.md)
+* [Puppet git cheatsheet](devops/puppet-git-cheatsheet.md)
 
 ## Docker
 
@@ -47,8 +55,10 @@
 
 ## Kubernetes
 
+* [Deploy Kubernetes with ansible on Atomic](kubernetes/deploy-kubernetes-with-ansible-on-atomic.md)
 * [Links](kubernetes/links.md)
 * [Rolling Update Example](kubernetes/rolling-update-example.md)
+* [How to build a CI/CD pipeline using Kubernetes, Gitlab CI, and Helm](kubernetes/how-to-build-a-ci-cd-pipeline-using-kubernetes-gitlab-ci-and-helm.md)
 
 ## Linux
 
@@ -81,4 +91,8 @@
 ## Security
 
 * [Links](security/links.md)
+
+## Terraform
+
+* [Links](terraform/links.md)
 
