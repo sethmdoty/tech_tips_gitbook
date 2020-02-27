@@ -18,6 +18,14 @@
 
 {% embed url="https://medium.com/@alfonso\_cabrera/terraform-security-with-aws-vault-901b64c72003" %}
 
+### Providers
+
+{% embed url="https://github.com/eddiezane/terraform-provider-todoist" %}
+
+{% embed url="https://www.hashicorp.com/blog/managing-google-calendar-with-terraform/" %}
+
+
+
 ### Provisioners
 
 {% embed url="https://github.com/radekg/terraform-provisioner-ansible/blob/master/README.md" %}
