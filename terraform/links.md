@@ -24,6 +24,10 @@
 
 {% embed url="https://www.hashicorp.com/blog/managing-google-calendar-with-terraform/" %}
 
+{% embed url="https://www.hashicorp.com/resources/creating-terraform-provider-for-anything" %}
+
+
+
 
 
 ### Provisioners
