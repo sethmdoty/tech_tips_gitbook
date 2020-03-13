@@ -54,5 +54,11 @@
 
 {% embed url="https://www.janmeppe.com/blog/regex-for-noobs/" %}
 
+### Emacs
+
+{% embed url="https://spin.atomicobject.com/2019/12/12/fixing-emacs-macos-catalina/" %}
+
+
+
 
 
