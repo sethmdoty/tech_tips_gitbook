@@ -88,6 +88,7 @@
 
 * [Delete Local backups](osx/delete-local-backups.md)
 * [Ripgrep CheatSheet](osx/ripgrep-cheatsheet.md)
+* [Emacs - Server Mode](osx/emacs-server-mode.md)
 
 ## Security
 
