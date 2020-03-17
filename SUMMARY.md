@@ -45,6 +45,11 @@
 * [Docker and Consul](docker/docker-and-consul.md)
 * [Dockerize a Live System](docker/dockerize-a-live-system.md)
 
+## Emacs
+
+* [Emacs- Server Mode](emacs/emacs-server-mode.md)
+* [M4Ue](emacs/m4ue.md)
+
 ## GCP
 
 * [Links](gcp/links.md)
@@ -88,7 +93,6 @@
 
 * [Delete Local backups](osx/delete-local-backups.md)
 * [Ripgrep CheatSheet](osx/ripgrep-cheatsheet.md)
-* [Emacs - Server Mode](osx/emacs-server-mode.md)
 
 ## Security
 

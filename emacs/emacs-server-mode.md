@@ -2,7 +2,7 @@
 description: Setting up client/server mode on OSX
 ---
 
-# Emacs - Server Mode
+# Emacs- Server Mode
 
 ```text
 brew cask install emacs
