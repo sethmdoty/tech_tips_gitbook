@@ -1,3 +1,7 @@
+---
+description: Configure all the pieces to supplement my mu4e emacs config
+---
+
 # M4Ue
 
 ```text
