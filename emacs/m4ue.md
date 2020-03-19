@@ -11,9 +11,10 @@ brew install mu
 Create a file: `.mbsyncrc`.  This configuration uses the macOS keychain.
 
 ```text
+# Based on http://www.macs.hw.ac.uk/~rs46/posts/2014-01-13-mu4e-email-client.html
 IMAPAccount icloud
 Host imap.mail.me.com
-User email_username #not XXX@me.com etc.
+User sethmdoty #not XXX@me.com etc.
 PassCmd "security find-generic-password -s mbsync-icloud-password -w"
 Port 993
 SSLType IMAPS
@@ -24,9 +25,9 @@ IMAPStore icloud-remote
 Account icloud
 
 MaildirStore icloud-local
+SubFolders Verbatim
 Path ~/.mbox/icloud/
 Inbox ~/.mbox/icloud/inbox
-Trash Trash
 
 #
 # Channels and Groups 
@@ -36,14 +37,49 @@ Trash Trash
 Channel icloud-folders
 Master :icloud-remote:
 Slave :icloud-local:
-Patterns "INBOX" "Saved" "Drafts" "Archive" "Sent*" "Trash"
+Patterns *
 Create Both
 Expunge Both
 SyncState *
 
-Group icloud
-Channel icloud-folders
+###work email
+IMAPAccount gmail
+Host imap.gmail.com
+User seth.doty@objectpartners.com
+PassCmd "security find-generic-password -s mbsync-gmail-password -w"
+SSLType IMAPS
+AuthMechs LOGIN
 
+IMAPStore gmail-remote
+Account gmail
+
+MaildirStore gmail-local
+Path ~/.mbox/gmail/
+Inbox ~/.mbox/gmail/inbox
+
+Channel gmail-default
+Master :gmail-remote:
+Slave :gmail-local:Inbox
+
+Channel gmail-sent
+Master :gmail-remote:"[Gmail]/Sent Mail"
+slave  :gmail-local:Sent
+
+Channel gmail-trash
+Master :gmail-remote:"[Gmail]/Trash"
+slave  :gmail-local:Trash
+
+Channel gmail-archive
+Master :gmail-remote:"[Gmail]/All Mail"
+slave  :gmail-local:All
+
+Channel gmail-junk
+Master :gmail-remote:"[Gmail]/Spam"
+slave  :gmail-local:JunkCreate
+
+Create Both
+Expunge Both
+SyncState *
 
 ```
 
@@ -62,14 +98,20 @@ port 587
 tls on
 tls_certcheck on
 tls_starttls on
-logfile  ~/.config/msmtp.log
+logfile        ~/.config/msmtp.log
 
 account icloud
 host smtp.mail.me.com
-from email@icloud.com
-user email ##not user@icloud.com
+from sethmdoty@icloud.com
+user sethmdoty
 passwordeval "security find-generic-password -s mbsync-icloud-password -w"
 
 account default : icloud
+
+account gmail
+host smtp.gmail.com
+from seth.doty@objectpartners.com
+user seth.doty@objectpartners.com
+passwordeval "security find-generic-password -s mbsync-gmail-password -w"
 ```
 
