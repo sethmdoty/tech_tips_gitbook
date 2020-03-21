@@ -45,7 +45,7 @@ SyncState *
 ###work email
 IMAPAccount gmail
 Host imap.gmail.com
-User seth.doty@objectpartners.com
+User full.email@gmail.com
 PassCmd "security find-generic-password -s mbsync-gmail-password -w"
 SSLType IMAPS
 AuthMechs LOGIN
@@ -102,16 +102,16 @@ logfile        ~/.config/msmtp.log
 
 account icloud
 host smtp.mail.me.com
-from sethmdoty@icloud.com
-user sethmdoty
+from fullemail@icloud.com
+user account
 passwordeval "security find-generic-password -s mbsync-icloud-password -w"
 
 account default : icloud
 
 account gmail
 host smtp.gmail.com
-from seth.doty@objectpartners.com
-user seth.doty@objectpartners.com
+from full.email@gmail.com
+user full.email@gmail.com
 passwordeval "security find-generic-password -s mbsync-gmail-password -w"
 ```
 
