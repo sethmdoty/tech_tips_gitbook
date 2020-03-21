@@ -5,7 +5,7 @@ description: Configure all the pieces to supplement my mu4e emacs config
 # M4Ue
 
 ```text
-brew install mu
+brew install mu isync
 ```
 
 Create a file: `.mbsyncrc`.  This configuration uses the macOS keychain.
