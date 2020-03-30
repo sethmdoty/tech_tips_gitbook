@@ -101,4 +101,5 @@
 ## Terraform
 
 * [Links](terraform/links.md)
+* [Installation](installation.md)
 
