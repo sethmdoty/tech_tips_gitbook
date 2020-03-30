@@ -47,6 +47,7 @@
 
 ## Emacs
 
+* [Installation](emacs/installation.md)
 * [Emacs- Server Mode](emacs/emacs-server-mode.md)
 * [M4Ue](emacs/m4ue.md)
 
@@ -101,5 +102,4 @@
 ## Terraform
 
 * [Links](terraform/links.md)
-* [Installation](installation.md)
 
