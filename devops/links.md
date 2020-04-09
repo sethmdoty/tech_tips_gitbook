@@ -62,6 +62,12 @@
 
 {% embed url="https://chartio.com/blog/cloud-data-management-book-launch/" %}
 
+## Ticketing
+
+{% embed url="https://www.combodo.com/itop-access-to-the-demonstration" %}
+
+
+
 
 
 
