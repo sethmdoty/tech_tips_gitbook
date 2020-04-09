@@ -8,5 +8,11 @@
 
 {% embed url="https://github.com/Hack-with-Github/Awesome-Hacking" %}
 
+## Commentary
+
+{% embed url="https://vimeo.com/135347162" %}
+
+
+
 
 
