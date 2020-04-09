@@ -51,6 +51,10 @@
 * [Emacs- Server Mode](emacs/emacs-server-mode.md)
 * [M4Ue](emacs/m4ue.md)
 
+## FreeBSD
+
+* [IOCTL Recovery](freebsd/ioctl-recovery.md)
+
 ## GCP
 
 * [Links](gcp/links.md)
