@@ -27,7 +27,6 @@
 
 * [Links](devops/links.md)
 * [DevOps for Horses: Moving an Enterprise Application to the Cloud](devops/devops-for-horses-moving-an-enterprise-application-to-the-cloud.md)
-* [Puppet git cheatsheet](devops/puppet-git-cheatsheet.md)
 
 ## Docker
 
