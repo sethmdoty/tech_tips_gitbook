@@ -37,10 +37,6 @@
 * [Docker and Consul](docker/docker-and-consul.md)
 * [Dockerize a Live System](docker/dockerize-a-live-system.md)
 
-## Emacs
-
-* [Emacs- Server Mode](emacs/emacs-server-mode.md)
-
 ## GCP
 
 * [Links](gcp/links.md)
