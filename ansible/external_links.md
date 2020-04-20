@@ -1,13 +1,5 @@
 # Links
 
-## Ansible Tower
-
-[https://fale.io/blog/2017/10/06/ansible-tower-ldap-with-self-signed-ca/](https://fale.io/blog/2017/10/06/ansible-tower-ldap-with-self-signed-ca/)
-
-## Ansible AWX
-
-[https://computingforgeeks.com/install-ansible-awx-on-centos-7-fedora-with-nginx-reverse-proxy-letsencrypt/](https://computingforgeeks.com/install-ansible-awx-on-centos-7-fedora-with-nginx-reverse-proxy-letsencrypt/)
-
 ## Ansible with terraform
 
 [https://getintodevops.com/blog/using-ansible-with-terraform](https://getintodevops.com/blog/using-ansible-with-terraform)

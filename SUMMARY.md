@@ -16,16 +16,10 @@
 ## AWS
 
 * [Links](aws/links.md)
-* [Remove KMS Grant Script](aws/remove-kms-grant-script.md)
-* [AWS Cli](aws/aws-cli.md)
 
 ## Chaos Engineering
 
 * [Links](chaos-engineering/links.md)
-
-## Databases
-
-* [MsSQL Kill User Session](databases/untitled.md)
 
 ## Development
 
@@ -47,9 +41,7 @@
 
 ## Emacs
 
-* [Installation](emacs/installation.md)
 * [Emacs- Server Mode](emacs/emacs-server-mode.md)
-* [M4Ue](emacs/m4ue.md)
 
 ## FreeBSD
 
@@ -93,11 +85,6 @@
 ## OpenBSD
 
 * [Links](openbsd/links.md)
-
-## OSX
-
-* [Delete Local backups](osx/delete-local-backups.md)
-* [Ripgrep CheatSheet](osx/ripgrep-cheatsheet.md)
 
 ## Security
 
