@@ -41,10 +41,6 @@
 
 * [Emacs- Server Mode](emacs/emacs-server-mode.md)
 
-## FreeBSD
-
-* [IOCTL Recovery](freebsd/ioctl-recovery.md)
-
 ## GCP
 
 * [Links](gcp/links.md)
