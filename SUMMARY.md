@@ -54,7 +54,6 @@
 * [Awk one-liners](linux/awk-one-liners.md)
 * [Automate Sysadmin Tasks with Python’s os.walk Function](linux/automate-sysadmin-tasks-with-pythons-os.walk-function.md)
 * [Asus Speaker Fix](linux/asus-speaker-fix.md)
-* [Centrify AD join Issues](linux/centrify-ad-join-issues.md)
 * [FreeIPA](linux/freeipa/README.md)
   * [Automating Kerberos Authentication](linux/freeipa/automating-kerberos-authentication.md)
 * [KVM](linux/kvm/README.md)
