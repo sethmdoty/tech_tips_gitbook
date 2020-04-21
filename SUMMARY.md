@@ -6,7 +6,6 @@
 
 * [Links](ansible/external_links.md)
 * [Generate Rundeck Inventory](ansible/generate-rundeck-inventory.md)
-* [Inventories](ansible/inventories.md)
 * [setup-ansible-for-windows](ansible/setup-ansible-for-windows.md)
 
 ## AWS
@@ -30,7 +29,6 @@
 
 * [Building Fedora Rawhide images with Imagefactory](docker/building-fedora-rawhide-images-with-imagefactory.md)
 * [Links](docker/links.md)
-* [Deploy Simple Registry Server](docker/deploy-simple-registry-server.md)
 * [Docker and Consul](docker/docker-and-consul.md)
 * [Dockerize a Live System](docker/dockerize-a-live-system.md)
 
@@ -63,11 +61,6 @@
   * [Automated DNS resolution for KVM/libvirt guests with a local domain](linux/kvm/automated-dns-resolution-for-kvm-libvirt-guests-with-a-local-domain.md)
 * [Storage](linux/storage/README.md)
   * [/dev/sda1 is apparently in use by the system ; will not make a filesystem here!](linux/storage/dev-sda1-is-apparently-in-use-by-the-system-will-not-make-a-filesystem-here.md)
-
-## Networking
-
-* [Junos flow trace without commit](networking/junos-flow-trace-without-commit.md)
-* [Junos Stream Logging](networking/junos-stream-logging.md)
 
 ## OpenBSD
 
