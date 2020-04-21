@@ -7,8 +7,6 @@
 * [Links](ansible/external_links.md)
 * [Generate Rundeck Inventory](ansible/generate-rundeck-inventory.md)
 * [Inventories](ansible/inventories.md)
-* [ansible-without-inventory](ansible/ansible-without-inventory.md)
-* [password\_user](ansible/password_user.md)
 * [setup-ansible-for-windows](ansible/setup-ansible-for-windows.md)
 
 ## AWS
